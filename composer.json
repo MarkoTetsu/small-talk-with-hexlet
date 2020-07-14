@@ -1,0 +1,17 @@
+{
+    "name": "markotetsu/small-talk-with-hexlet",
+    "description": "Small talk with Hexlet",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marat Kokov",
+            "email": "marko.fero@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "./sayHi",
+        "./sayBye"
+    ],
+    "require": {}
+}
